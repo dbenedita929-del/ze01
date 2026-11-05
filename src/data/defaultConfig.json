@@ -1,0 +1,127 @@
+{
+  "id": "com.polyverse.aimirror",
+  "name": "AI Mirror: AI Art Photo Editor",
+  "developer": "POLYVERSE INC.",
+  "developerEmail": "support@polyverse.inc",
+  "developerWebsite": "https://aimirror.fun",
+  "developerAddress": "Shibuya Scramble Square 24F, 2-24-12 Shibuya, Tokyo, Japan",
+  "privacyPolicyUrl": "https://aimirror.fun/privacy-policy",
+  "category": "Arte e Design",
+  "tags": [
+    "Arte e Design",
+    "Editor de fotos",
+    "IA Generativa",
+    "Anime",
+    "Estilização",
+    "Avatares IA",
+    "Vídeo com IA",
+    "Criatividade"
+  ],
+  "rating": 4.4,
+  "ratingCount": "223 mil avaliações",
+  "ratingCountNumber": 223418,
+  "downloads": "10 mi+",
+  "downloadsNumber": 10000000,
+  "contentRating": "14",
+  "contentRatingNotes": [
+    "Violência",
+    "Conteúdo Sexual"
+  ],
+  "containsAds": true,
+  "inAppPurchases": true,
+  "inAppPriceRange": "R$ 14,90 a R$ 249,90 por item",
+  "version": "4.12.0",
+  "updatedDate": "26 de out. de 2026",
+  "size": "86 MB",
+  "requiredAndroid": "Android 8.0 ou superior",
+  "logoMode": "preset",
+  "logoPreset": "aimirror",
+  "installButtonText": "Instalar",
+  "descriptionShort": "Crie arte mágica em anime, retratos em estilo cyberpunk, avatares 3D colecionáveis e vídeos animados incríveis a partir das suas fotos com tecnologia de IA avançada.",
+  "descriptionFull": [
+    "Entre no universo da imaginação com o AI Mirror, o estúdio de arte impulsionado por inteligência artificial mais completo do mundo! Transforme suas selfies diárias, fotos de viagens e fotos com amigos em obras-primas inspiradas em animes dos anos 90, mangás clássicos, estética cyberpunk, miniaturas colecionáveis e animações fluidas.",
+    "Basta carregar uma foto, escolher o estilo desejado e assistir ao algoritmo de difusão de última geração criar um visual arrebatador em poucos segundos.",
+    "✨ PRINCIPAIS RECURSOS:",
+    "• Estilos de Anime Lendários: Mergulhe nas estéticas dos animes shonen, garotas mágicas, Ghibli nostálgico e ficção científica futurista.",
+    "• Gerador de Miniaturas Colecionáveis: Transforme qualquer pessoa ou animal de estimação em uma estatueta colecionável detalhada em caixa acrílica.",
+    "• Fotos para Vídeos com IA: Dê movimento e vida às suas fotos estáticas com transições dinâmicas de 4 a 6 segundos e trilhas sonoras integradas.",
+    "• Cosplay & Fantasia Épica: Torne-se guerreiros medievais, elfos místicos, vampiros góticos ou heróis cibernéticos.",
+    "• Modo Dupla e Pet: Crie retratos mágicos ao lado de parceiros, amigos ou do seu cachorro/gato com correspondência de traços perfeita.",
+    "• Alta Resolução Ultra HD: Exporte em até 4K com riqueza de texturas, iluminação volumétrica e sombras realistas ideais para papéis de parede e redes sociais."
+  ],
+  "whatsNew": [
+    "🚀 Atualização 4.12.0:",
+    "• Novo filtro exclusivo \"Cyberpunk Neo Tokyo 2099\" com reflexos de neon aprimorados.",
+    "• Renderização de vídeo com IA 2x mais rápida usando processamento neural otimizado.",
+    "• Novo seletor de intensidade de estilização (de suave a transformação total).",
+    "• Correções de estabilidade e melhorias de compatibilidade com Android 15."
+  ],
+  "features": [
+    {
+      "title": "Transposição de Anime",
+      "desc": "Mais de 80 presets de estilos de animação japonesa clássica e moderna.",
+      "icon": "Sparkles"
+    },
+    {
+      "title": "Vídeos Animados IA",
+      "desc": "Transforme fotos em pequenos clipes cinematográficos de alta fluidez.",
+      "icon": "Film"
+    },
+    {
+      "title": "Figuras Colecionáveis",
+      "desc": "Crie mockups de caixas de action figures personalizadas com seu rosto.",
+      "icon": "Box"
+    },
+    {
+      "title": "Privacidade e Segurança",
+      "desc": "Suas imagens originais são processadas de forma segura e excluídas após o render.",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "author": "Mariana Silveira",
+      "avatarColor": "bg-rose-500",
+      "rating": 5,
+      "date": "28 de outubro de 2026",
+      "device": "Samsung Galaxy S24 Ultra",
+      "content": "Melhor app de IA que já utilizei! O estilo de anime dos anos 90 é assustadoramente fiel, preserva as expressões do meu rosto e não fica com aquela cara genérica de IA borrada. A renderização de vídeos também ficou super rápida nessa versão recente.",
+      "helpfulCount": 418,
+      "developerResponse": {
+        "date": "29 de outubro de 2026",
+        "content": "Olá, Mariana! Muito obrigado pelo feedback detalhado! Nossa equipe trabalhou duro nos pesos de atenção do modelo 90s Cel Shading."
+      }
+    },
+    {
+      "id": "rev-2",
+      "author": "Lucas Andrade",
+      "avatarColor": "bg-indigo-600",
+      "rating": 5,
+      "date": "25 de outubro de 2026",
+      "device": "Xiaomi 14 Pro",
+      "content": "O recurso de gerar miniaturas de action figures em caixa acrílica é genial demais. Imprimi para colocar na minha mesa do escritório e todo mundo perguntou onde comprei o boneco. 10/10!",
+      "helpfulCount": 284
+    },
+    {
+      "id": "rev-3",
+      "author": "Fernanda Lima",
+      "avatarColor": "bg-emerald-600",
+      "rating": 4,
+      "date": "21 de outubro de 2026",
+      "device": "Motorola Edge 50 Ultra",
+      "content": "Os estilos cyberpunk e Ghibli são lindos. A geração leva menos de 5 segundos no Wi-Fi. Só dei 4 estrelas porque alguns estilos mais raros exigem assistir a um anúncio rápido, mas vale muito a pena.",
+      "helpfulCount": 112
+    },
+    {
+      "id": "rev-4",
+      "author": "Gabriel Siqueira",
+      "avatarColor": "bg-amber-600",
+      "rating": 5,
+      "date": "14 de outubro de 2026",
+      "device": "Google Pixel 8 Pro",
+      "content": "Renderiza em alta resolução sem perda de definição nos cabelos e olhos. Já testei dezenas de apps parecidos e o AI Mirror é com certeza o que entrega o resultado mais limpo e artístico.",
+      "helpfulCount": 89
+    }
+  ]
+}

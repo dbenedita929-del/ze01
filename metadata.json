@@ -1,0 +1,6 @@
+{
+  "name": "AI Mirror: AI Art Photo Editor - Google Play",
+  "description": "Página detalhada de aplicativo inspirada no Google Play para AI Mirror: AI Art Photo Editor com recursos interativos de instalação, avaliações e galeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
